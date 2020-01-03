@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "root",
-    "database": "exampledb",
-    "host": "localhost",
+    "username": "pq234mzp9fe2ny3a",
+    "password": "irwmrzi2kq80bgvn",
+    "database": "tgfv5m3qrk66yjj8",
+    "host": "lolyz0ok3stvj6f0.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "port": "3306",
     "dialect": "mysql"
   },
